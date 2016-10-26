@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="UnityManagedPluginsTest/UnityManagedPluginsTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnityManagedPluginsTest/MyClass.cs">
+    <Files>
+      <File FileName="UnityManagedPluginsTest/MyClass.cs" Line="31" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

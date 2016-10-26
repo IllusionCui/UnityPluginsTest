@@ -1,0 +1,6 @@
+/Users/illusion/illusion/unity/UnityManagedPluginsTest/UnityManagedPluginsTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/illusion/illusion/unity/UnityPluginsTest/UnityManagedPluginsTest/UnityManagedPluginsTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/illusion/illusion/unity/UnityPluginsTest/UnityManagedPluginsTest/UnityManagedPluginsTest/bin/Debug/UnityManagedPluginsTest.dll.mdb
+/Users/illusion/illusion/unity/UnityPluginsTest/UnityManagedPluginsTest/UnityManagedPluginsTest/bin/Debug/UnityManagedPluginsTest.dll
+/Users/illusion/illusion/unity/UnityPluginsTest/UnityManagedPluginsTest/UnityManagedPluginsTest/obj/Debug/UnityManagedPluginsTest.dll
+/Users/illusion/illusion/unity/UnityPluginsTest/UnityManagedPluginsTest/UnityManagedPluginsTest/obj/Debug/UnityManagedPluginsTest.dll.mdb

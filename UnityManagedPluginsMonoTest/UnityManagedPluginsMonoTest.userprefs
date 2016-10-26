@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="UnityManagedPluginsMonoTest/UnityManagedPluginsMonoTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.iPhonePlayer" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnityManagedPluginsMonoTest/MonoTest.cs">
+    <Files>
+      <File FileName="UnityManagedPluginsMonoTest/MonoTest.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
